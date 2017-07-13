@@ -1,0 +1,44 @@
+h1 {
+  text-align: center;
+  margin-bottom: 50px;
+  text-transform: uppercase;
+}
+
+.directoryPeople {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 15px;
+  text-transform: capitalize;
+  justify-content: space-between;
+}
+
+.memberName {
+  text-align: center;
+  border-bottom: 1px solid #74C19A;
+  margin: 0 19px 0 19px;
+  text-transform: uppercase;
+
+}
+
+.memberPic {
+  width: 220px;
+  margin-top: 20px;
+
+}
+.memberEmail{
+  text-align: center;
+  color: #D6D6D6;
+  text-transform: none;
+
+}
+
+.memberLocation {
+  text-align: center;
+  color: #5F5F5F;
+  margin: 0;
+
+}
+
+.memberNumber {
+  text-align: center;
+}
